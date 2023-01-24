@@ -55,21 +55,27 @@ If the control input changes to AB = 10, then all the gates are restricted excep
 ### Procedure:
 
 Step 1:
+
 Open Quartus II and select new project . Open new file at the verilog.
 
 Step 2:
+
 Module Declaration. Module should have the file name.
 
 Step 3:
+
 Input-Output Delecaration.
 
 Step 4:
+
 Use wire to define the functionality of logic circuits.
 
 Step 5:
+
 End the module.
 
 Step 6:
+
 Run the program and choose RTL viewer to get RTL realization.
 
 ### PROGRAM:
